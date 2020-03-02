@@ -1,3 +1,1 @@
-UPDATE planeten
-SET naam = 'teenlap'
-WHERE id = 6;
+DELETE FROM planeten WHERE id=6;
